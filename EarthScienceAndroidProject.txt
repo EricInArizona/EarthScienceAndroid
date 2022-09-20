@@ -1,0 +1,33 @@
+buildfile	C:\Eric\Main\EarthScienceAndroid\BuildProj.bat
+executablefile	C:\Eric\Main\EarthScienceAndroid\AdbInst.bat
+projectdirectory	\Eric\Main\EarthScienceAndroid
+recentfile1	\Eric\Main\EarthScienceAndroid\app\src\main\java\io\github\ericinarizona\earthscienceandroid\MainActivity.java
+recentfile2	\Eric\Main\Docs\Notes.txt
+recentfile3	\Eric\Main\EarthScienceAndroid\BuildProj.bat
+recentfile4	\Eric\Main\EarthScienceAndroid\app\build.gradle
+recentfile5	\Eric\Main\EarthScienceAndroid\app\src\main\AndroidManifest.xml
+recentfile6	
+recentfile7	
+recentfile8	
+recentfile9	
+recentfile10	
+recentfile11	
+recentfile12	
+recentfile13	
+recentfile14	
+recentfile15	
+recentfile16	
+recentfile17	
+recentfile18	
+recentfile19	
+recentfile20	
+recentfile21	
+recentfile22	
+recentfile23	
+recentfile24	
+recentfile25	
+recentfile26	
+recentfile27	
+recentfile28	
+recentfile29	
+recentfile30	
